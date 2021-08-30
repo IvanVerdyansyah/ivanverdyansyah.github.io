@@ -1,0 +1,48 @@
+		body{
+			font-family: arial,calibri, sans-serif;
+		}
+
+		img {
+			width: 600px;
+		}
+
+		ol li {
+			font-size: 15px;
+		}
+
+		li {
+			font-size: 20px;
+		}
+
+		dl dt {
+			font-size: 19px;
+			font-weight: bold;
+		}
+
+		dl dd {
+			font-size: 20px;
+		}
+
+		p {
+			font-size: 20px;		
+		}
+
+		h1 {
+			font-size: 50px;
+		}
+
+		h2 {
+			font-size: 35px;
+		}
+
+		h3 {
+			font-size: 25px;
+		}
+
+		h4 {
+			font-size: 20px;
+		}
+
+		h5 {
+			font: normal normal normal 16px/15px arial,calibri, sans-serif;	
+		}
